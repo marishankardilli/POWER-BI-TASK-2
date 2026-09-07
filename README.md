@@ -52,3 +52,9 @@ The page is configured for drillthrough on **Order Date**, so it can receive an 
 ## Requirements
 
 - Power BI Desktop (current version recommended) to open and edit the `.pbix` file.
+
+
+
+<img width="682" height="507" alt="Screenshot 2026-09-07 225501" src="https://github.com/user-attachments/assets/e9293461-84ec-45fd-b10c-5466fbb75da9" />
+
+
